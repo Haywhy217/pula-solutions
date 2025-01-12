@@ -5,10 +5,14 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif'],
+        sans: ['Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif, inter'],
       },
       colors: {
         customGray: '#9ca3af',
+        footColor:'#98A2B3',
+      },
+      backgroundColor: {
+        primary: '#111827',
       },
     },
   },
