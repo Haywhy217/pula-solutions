@@ -5,7 +5,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif, inter'],
+        sans: ['Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif, inter, livvic'],
       },
       colors: {
         customGray: '#9ca3af',
@@ -13,6 +13,7 @@ module.exports = {
       },
       backgroundColor: {
         primary: '#111827',
+        pressColor: '#F3f4f6',
       },
     },
   },
