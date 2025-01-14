@@ -4,6 +4,7 @@ import Footer from '../Components/footer'
 import PressSection from '../Components/PressSection'
 import PressMention from '../Components/PressMention'
 import SocialProof from '../Components/SocialProof'
+import Journey from '../Components/Journey'
 
 const LandingPage = () => {
   return (
@@ -12,7 +13,8 @@ const LandingPage = () => {
       {/* <Footer/> */}
       {/* <PressSection/> */}
       {/* <PressMention/> */}
-      <SocialProof/>
+      {/* <SocialProof/> */}
+      <Journey/>
     </>
   )
 }

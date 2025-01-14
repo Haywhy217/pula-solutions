@@ -6,7 +6,7 @@ import proof4 from '../assets/Images/proofimg3.png'
 
 const SocialProof = () => {
   return (
-    <div className='w-full h-auto flex flex-col items-center justify-center bg-pressColor p-10 space-y-5'>
+    <div className='w-full h-auto flex flex-col items-center justify-center bg-pressColor p-16 space-y-5'>
       < div className='w-full px-4 gap-5'>
       <div className='w-full flex items-center justify-center'>
         <h1 className='text-center font-livvic leading-10 text-[28px] md:text-[40px] lg:[52px] text-[#1f2937] font-bold lg:w-1/2 lg:object-contain '>Backed by top tier investors and partners </h1>

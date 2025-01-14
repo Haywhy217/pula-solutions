@@ -10,10 +10,12 @@ module.exports = {
       colors: {
         customGray: '#9ca3af',
         footColor:'#98A2B3',
+        headingColor:'#1f2937',
       },
       backgroundColor: {
         primary: '#111827',
         pressColor: '#F3f4f6',
+        secondary: '#f9fafb',
       },
     },
   },
