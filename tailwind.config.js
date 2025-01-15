@@ -11,6 +11,7 @@ module.exports = {
         customGray: '#9ca3af',
         footColor:'#98A2B3',
         headingColor:'#1f2937',
+        logoText : '#344054',
       },
       backgroundColor: {
         primary: '#111827',

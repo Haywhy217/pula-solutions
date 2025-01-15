@@ -5,7 +5,7 @@ const Journey = () => {
   return (
     <div className='w-full flex flex-col h-auto items-center justify-center bg-secondary space-y-5 p-10'>
       <h1 className='font-livvic leading-9 font-bold text-center text-lg'>Our Journey</h1>
-      <img src={LocImg} alt='journey img' className='w-full mx-auto' />
+      <img src={LocImg} alt='journey img' className='w-full mx-auto ' />
      <div>
       <h1 className='font-livvic text-[16px] lg:leading-9 font-bold text-headingColor text-lg mb-2'>Empowering Farmers, Transforming Agriculture</h1>
       <div className='text-md  font-inter text-[#667085] leading-4 '>
