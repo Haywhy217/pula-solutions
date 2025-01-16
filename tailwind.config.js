@@ -5,8 +5,11 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: theme => ({
+        'custom-gradient': 'linear-gradient(0deg, #000000 100%, #263c28 80%, #000000 0%, #263c28 22%)',
         'hero-pattern': "url('/src/assets/Images/image.png')",
       }),
+
+      gradients: { 'custom-gradient': 'linear-gradient(0deg, #000000 100%, #263c28 80%, #000000 0%, #263c28 22%)', },
 
 
       fontFamily: {
