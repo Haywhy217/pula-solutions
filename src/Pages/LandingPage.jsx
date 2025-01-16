@@ -6,6 +6,7 @@ import PressMention from '../Components/PressMention'
 import SocialProof from '../Components/SocialProof'
 import Journey from '../Components/Journey'
 import Location1 from '../Components/Location1'
+import Hero2 from '../Components/Hero2'
 
 const LandingPage = () => {
   return (
@@ -16,7 +17,8 @@ const LandingPage = () => {
       {/* <PressMention/> */}
       {/* <SocialProof/> */}
       {/* <Journey/> */}
-      <Location1/>
+      {/* <Location1/> */}
+      <Hero2/>
     </>
   )
 }

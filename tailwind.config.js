@@ -4,6 +4,11 @@ module.exports = {
   content: ['./src/**/*.{js,jsx,ts,tsx}'],
   theme: {
     extend: {
+      backgroundImage: theme => ({
+        'hero-pattern': "url('/src/assets/Images/image.png')",
+      }),
+
+
       fontFamily: {
         sans: ['Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif, inter, livvic'],
       },
@@ -18,6 +23,7 @@ module.exports = {
         pressColor: '#F3f4f6',
         secondary: '#f9fafb',
       },
+     
     },
   },
   plugins: [],
