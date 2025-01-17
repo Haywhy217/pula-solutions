@@ -7,6 +7,7 @@ import SocialProof from '../Components/SocialProof'
 import Journey from '../Components/Journey'
 import Location1 from '../Components/Location1'
 import Hero2 from '../Components/Hero2'
+import TechSection1 from '../Components/TechSection1'
 
 const LandingPage = () => {
   return (
@@ -18,7 +19,8 @@ const LandingPage = () => {
       {/* <SocialProof/> */}
       {/* <Journey/> */}
       {/* <Location1/> */}
-      <Hero2/>
+      {/* <Hero2/> */}
+      <TechSection1/>
     </>
   )
 }
