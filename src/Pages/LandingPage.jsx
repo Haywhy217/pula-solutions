@@ -8,6 +8,7 @@ import Journey from '../Components/Journey'
 import Location1 from '../Components/Location1'
 import Hero2 from '../Components/Hero2'
 import TechSection1 from '../Components/TechSection1'
+import Hero from '../Components/Hero'
 
 const LandingPage = () => {
   return (
@@ -20,7 +21,8 @@ const LandingPage = () => {
       {/* <Journey/> */}
       {/* <Location1/> */}
       {/* <Hero2/> */}
-      <TechSection1/>
+      {/* <TechSection1/> */}
+      <Hero/>
     </>
   )
 }
