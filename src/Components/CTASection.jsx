@@ -19,12 +19,12 @@ const CTASection = () => {
           </div>
         </div>
         <div className='md:w-[568px] md:h-[496px] flex flex-col lg:flex-row flex-wrap space-y-5 md:mr-64 mt-10 md:space-y-2   '>
-          <div className='w-full flex  md:flex-row sm:flex-row lg:flex-row lg:gap-4 md:gap-4  md:justify-center gap-3 justify-center items-center' >
+          <div className='w-full flex  md:flex-row sm:flex-row lg:flex-row lg:gap-4 md:gap-4  md:justify-center gap-3 justify-center lg:ml-24' >
             <img src={CTAimg1} alt="Image 1" className='w-[80px] h-[80px] md:w-[140px] md:h-[140px] lg:w-[160px] lg:h-[160px] lg:mt-20 object-contain mt-10  '/>
             <img src={CTAimg2} alt="Image2 " className='w-[80px] h-[120px] md:w-[120px] md:h-[180px] lg:w-[160px] lg:h-[240px] object-contain '/>
             </div>
             
-          <div className=' w-full flex  sm:flex-row lg:flex-row gap-2'>
+          <div className=' w-full flex  sm:flex-row lg:flex-row gap-2 mx-auto'>
             <img src={CTAimg3} alt="Image 3" className=' w-[96px] h-[64px] md:w-[144px] md:h-[96px] lg:w-[170px] lg:h-[128px] object-contain '/> 
             <img src={CTAimg4} alt="Image 4" className='w-[80px] h-[120px] md:w-[120px] md:h-[180px] lg:w-[160px] lg:h-[240px] object-contain  '/>
             <img src={CTAimg5} alt="Image5" className=' w-[96px] h-[64px] md:w-[144px] md:h-[96px] lg:w-[170px] lg:h-[128px] object-contain ' />
