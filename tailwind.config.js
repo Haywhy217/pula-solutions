@@ -9,7 +9,9 @@ module.exports = {
         'hero-image': "url('/src/assets/Images/image1.png')",
       }),
 
-    
+      letterSpacing: {
+        '-2': '-0.02em', 
+      },
 
 
       fontFamily: {
