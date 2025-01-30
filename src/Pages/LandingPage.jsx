@@ -11,6 +11,7 @@ import TechSection1 from '../Components/TechSection1'
 import Hero from '../Components/Hero'
 import CTASection from '../Components/CTASection'
 import MetricsSection from '../Components/MetricsSection'
+import RCWSection from '../Components/RCWSection'
 
 const LandingPage = () => {
   return (
@@ -26,7 +27,8 @@ const LandingPage = () => {
       {/* <TechSection1/> */}
       {/* <Hero/> */}
       {/* <CTASection/> */}
-      <MetricsSection/>
+      {/* <MetricsSection/> */}
+      <RCWSection/>
     </>
   )
 }

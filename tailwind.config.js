@@ -22,6 +22,7 @@ module.exports = {
         footColor:'#98A2B3',
         headingColor:'#1f2937',
         logoText : '#344054',
+        active : '#37B5DE',
       },
       backgroundColor: {
         primary: '#111827',
