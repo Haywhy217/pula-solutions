@@ -14,6 +14,8 @@ import MetricsSection from '../Components/MetricsSection'
 import RCWSection from '../Components/RCWSection'
 import ProductCard from '../Components/ProductCard'
 import ProductSection from '../Components/ProductSection'
+import InsightCards from '../Components/InsightCards'
+import InsightSection from '../Components/InsightSection'
 
 const LandingPage = () => {
   return (
@@ -32,7 +34,9 @@ const LandingPage = () => {
       {/* <MetricsSection/> */}
       {/* <RCWSection/> */}
       {/* <ProductCard/> */}
-      <ProductSection/>
+      {/* <ProductSection/> */}
+      {/* <InsightCards/> */}
+      <InsightSection/>
     </>
   )
 }
