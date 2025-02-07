@@ -28,6 +28,7 @@ module.exports = {
         primary: '#111827',
         pressColor: '#F3f4f6',
         secondary: '#f9fafb',
+        overview: '#729874'
       },
      
     },
