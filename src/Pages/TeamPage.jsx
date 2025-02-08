@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from '../Components/Navbar'
-import TeamSection1 from '../Components/TeamSection1'
-import Footer from "Components/Footer";
+import TeamSection1 from '../Components/TeamSection1';
+import Footer from '../Components/Footer';
 
 const TeamPage = () => {
   return (

@@ -2,7 +2,7 @@ import React from 'react'
 import Navbar from '../Components/Navbar'
 import Hero2 from '../Components/Hero2'
 import OverviewSection from '../Components/OverviewSection'
-import Footer from "Components/Footer";
+import Footer from '../Components/Footer'
 
 const AboutPage = () => {
   return (
