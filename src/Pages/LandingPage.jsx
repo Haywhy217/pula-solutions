@@ -19,6 +19,8 @@ import InsightSection from '../Components/InsightSection'
 import InsightSectionWhite from '../Components/InsightSectionWhite'
 import OverviewCards from '../Components/OverviewCards'
 import OverviewSection from '../Components/OverviewSection'
+import TeamCards from '../Components/TeamCards'
+import TeamSection1 from '../Components/TeamSection1'
 
 const LandingPage = () => {
   return (
@@ -42,7 +44,9 @@ const LandingPage = () => {
       {/* <InsightSection  /> */}
       {/* <InsightSectionWhite/> */}
       {/* <OverviewCards/> */}
-      <OverviewSection/>
+      {/* <OverviewSection/> */}
+      {/* <TeamCards/> */}
+      <TeamSection1/>
     </>
   )
 }
