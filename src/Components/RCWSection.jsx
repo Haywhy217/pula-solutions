@@ -4,7 +4,7 @@ import card1 from '../assets/Images/image11.png';
 import card2 from '../assets/Images/image12.png';
 import card3 from '../assets/Images/image13.png';
 import card4 from '../assets/Images/image14.png';
-import card5 from '../assets/Images/image14b.png';
+import card5 from '../assets/Images/image15.png';
 import card6 from '../assets/Images/image16.png';
 import card7 from '../assets/Images/image17.png';
 import card8 from '../assets/Images/image18.png';
