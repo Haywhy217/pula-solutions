@@ -1,5 +1,5 @@
 import React from 'react'
-import arrowright from '../assets/Images/blue arrow.png';
+import arrowright from '../assets/Images/bluearrow.png';
 const ProductCard = ({image, title , description}) => {
   return (
     <div className='w-full max-w-[300px] sm:max-w-[280px] space-y-3 flex flex-col'>

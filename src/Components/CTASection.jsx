@@ -1,10 +1,10 @@
 
 import React from 'react'
-import CTAimg1 from '../assets/Images/Image2.png'
-import CTAimg2 from '../assets/Images/Image3.png'
-import CTAimg3 from '../assets/Images/Image4.png'
-import CTAimg4 from '../assets/Images/Image5.png'
-import CTAimg5 from  '../assets/Images/Image6.png'
+import CTAimg1 from '../assets/Images/image2.png'
+import CTAimg2 from '../assets/Images/image3.png'
+import CTAimg3 from '../assets/Images/image4.png'
+import CTAimg4 from '../assets/Images/image5.png'
+import CTAimg5 from  '../assets/Images/image6.png'
 
 const CTASection = () => {
   return (
