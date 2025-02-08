@@ -1,6 +1,6 @@
 import React from 'react'
 import ProductCard from './ProductCard'
-import cardA from '../assets/Images/image20.png';
+import cardA from '../assets/Images/image19b.png';
 import cardB from '../assets/Images/image19.png';
 import cardC from '../assets/Images/image18.png';
 import cardD from '../assets/Images/image17.png';
