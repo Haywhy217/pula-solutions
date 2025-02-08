@@ -9,7 +9,7 @@ import MetricsSection from '../Components/MetricsSection'
 import PressSection from '../Components/PressSection';
 import RCWSection from '../Components/RCWSection';
 import CTASection from '../Components/CTASection';
-import Footer from '../Components/footer'
+import Footer from "Components/Footer";
 
 
 const LandingPage = () => {
