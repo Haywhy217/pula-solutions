@@ -1,13 +1,14 @@
 import React from 'react'
 import ProductCard from './ProductCard'
 import cardA from '../assets/Images/image20.png';
-import cardB from '../assets/Images/image19.png';
+// import cardB from '../assets/Images/image19.png';
 import cardC from '../assets/Images/image18.png';
 import cardD from '../assets/Images/image17.png';
 import cardE from  '../assets/Images/image16.png';
 import cardF from '../assets/Images/image15.png';
 
 const ProductSection = () => {
+  
   return (
     <div  className='w-full p-10 justify-center flex flex-col  space-y-10 xl:space-y-20 bg-primary'> 
       <div className='max-w-[635px] mx-auto'>
@@ -20,7 +21,7 @@ const ProductSection = () => {
           description="Safeguard against crop yield volatility at the regional level with our Area Yield Index Insurance, fostering resilience in agricultural communities"
         />
         <ProductCard 
-          image={cardB}
+          // image={cardB}
           title="HYII"
           description="Protect crops from yield fluctuations with our innovative index insurance, ensuring stability and prosperity for farmers"
         />
