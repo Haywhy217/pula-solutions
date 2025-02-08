@@ -4,7 +4,7 @@ import Logo from '../assets/Images/pimage_a.png'
 
 const Footer = () => {
   return (
-    <div className='bg-primary h-full'>
+    <div className='bg-primary h-full p-6 lg:p-10'>
       <div className='px-4 pt-8  lg:px-16 '>
         <img src={subscribepic} alt='subscribe image' className='w-full mx-auto   '/>
       </div>
