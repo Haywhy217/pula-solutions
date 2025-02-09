@@ -50,7 +50,7 @@ const Navbar = () => {
 
       
       {menuOpen && (
-        <div className="md:hidden absolute top-20 left-0 w-full bg-[#111827] text-customGray text-right py-4">
+        <div className="md:hidden absolute top-20 left-0 w-full bg-[#111827] text-customGray text-right py-4 cursor-pointer">
           <ul className="text-customGray text-lg font-helvetica space-y-6 px-8">
             {menuItems.map((item) => (
               <li 
